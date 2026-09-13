@@ -22,6 +22,22 @@ ai-chatbot-pyt/
 ├── chroma_db/
 └── README.md
 ```
+## Tech Stack
+
+* Python
+* Streamlit
+* LangChain
+* Chroma
+* Hugging Face
+* Gemma 2B
+* Sentence Transformers
+* DOCX / Docx2txt
+
+## Notes
+
+This is a local development project. The application uses Hugging Face for the LLM inference and runs the document processing and vector database locally.
+
+For production use, authentication, persistent storage, document lifecycle management, monitoring, and evaluation should be added.
 
 ## Prerequisites
 
@@ -293,19 +309,3 @@ python -m pip install --upgrade pip
 
 ---
 
-## Tech Stack
-
-* Python
-* Streamlit
-* LangChain
-* Chroma
-* Hugging Face
-* Gemma 2B
-* Sentence Transformers
-* DOCX / Docx2txt
-
-## Notes
-
-This is a local development project. The application uses Hugging Face for the LLM inference and runs the document processing and vector database locally.
-
-For production use, authentication, persistent storage, document lifecycle management, monitoring, and evaluation should be added.
