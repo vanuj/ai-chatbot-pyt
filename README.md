@@ -48,8 +48,8 @@ This project uses the following open-source projects and models:
 - Hugging Face
 - Sentence Transformers
 - Google Gemma
--
-  This project uses Google's Gemma model through Hugging Face. Model usage is subject to Google's Gemma Terms of Use.  
+
+This project uses Google's Gemma model through Hugging Face. Model usage is subject to Google's Gemma Terms of Use.  
 ## Prerequisites
 
 Install **Python 3.9+**.
