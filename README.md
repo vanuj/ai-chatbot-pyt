@@ -1,5 +1,5 @@
 # ai-chatbot-pyt
-A simple local chatbot in python to quickly interact with the uploaded document and retrieve answers.
+A simple POC in local for chatbot in python to quickly interact with the uploaded document and retrieve answers.
 It is built with Streamlit, LangChain, Chroma, Hugging Face embeddings, and Gemma.
 
 The chatbot can:
