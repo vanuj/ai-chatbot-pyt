@@ -30,6 +30,7 @@ ai-chatbot-pyt/
 * Gemma 2B
 * Sentence Transformers
 * DOCX / Docx2txt
+This project uses Google's Gemma model through Hugging Face. Model usage is subject to Google's Gemma Terms of Use.
 
 ## Notes
 
@@ -37,6 +38,17 @@ This is a local development project. The application uses Hugging Face for the L
 
 For production use, authentication, persistent storage, document lifecycle management, monitoring, and evaluation should be added.
 
+## Acknowledgements
+
+This project uses the following open-source projects and models:
+
+- Streamlit
+- LangChain
+- Chroma
+- Hugging Face
+- Sentence Transformers
+- Google Gemma
+  
 ## Prerequisites
 
 Install **Python 3.9+**.
