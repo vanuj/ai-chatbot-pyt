@@ -1,8 +1,6 @@
 # ai-chatbot-pyt
-Simple AI chatbot in python to quickly interact with the uploaded document and retrieve answers.
-# AI RAG Chatbot
-
-A simple local **RAG (Retrieval-Augmented Generation) chatbot** built with Streamlit, LangChain, Chroma, Hugging Face embeddings, and Gemma.
+A simple local chatbot in python to quickly interact with the uploaded document and retrieve answers.
+It is built with Streamlit, LangChain, Chroma, Hugging Face embeddings, and Gemma.
 
 The chatbot can:
 
