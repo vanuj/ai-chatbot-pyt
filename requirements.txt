@@ -1,0 +1,4 @@
+pip install streamlit python-dotenv huggingface-hub \
+langchain langchain-community langchain-huggingface \
+langchain-chroma chromadb docx2txt \
+sentence-transformers
